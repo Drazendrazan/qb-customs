@@ -8,7 +8,9 @@ moneyType = 'bank'
 -- Add jobs specific to the garage.
 bennyGarages = {
     [1] = {coords = vector4(-211.55, -1324.55, 30.90, 319.73135375977), blip = true, useJob = false, job = {"mechanic", "police"}},
-    [2] = {coords = vector4(109.89, 6627.07, 31.78, 221.7938), blip = true, useJob = true, job = {"mechanic"}}
+    [2] = {coords = vector4(109.89, 6627.07, 31.78, 221.7938), blip = true, useJob = true, job = {"mechanic"}},
+    [3] = {coords = vector4(-1655.48, -2807.32, 14.29, 142.9), blip = true, useJob = false, job = {"mechanic", "police"}},
+
 }
 
 --[[ bennyLocations = {
